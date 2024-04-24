@@ -1,4 +1,4 @@
-!["final rendering for try it yourself"](assets/images/html_elements_lab_2_render.jpg)
+!["final rendering for try it yourself"](assets/images/html-elements1-yourself-final-render%20copy.jpg)
 # HTML Elements and Tags Lab 3 - Try it Yourself
 
 ## Description 📄
