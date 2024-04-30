@@ -6,7 +6,7 @@ In the “Try It Yourself” lab, you’ll build upon the webpage structure from
 
 ---
 
-## Acceptance Criteria 📋
+## Developer Objectives 📋
 1. **File Navigation:** Open the `index.html` file.
 2. **Section Creation:** Create new sections, each wrapped in a `<div>` element.
 3. **Header Tags Insertion:** Insert appropriate header tags (`<h1>` to `<h6>`) for section titles.
