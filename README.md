@@ -38,3 +38,44 @@ ___
 💾 **Not something to copy and paste** 💾
 
 **Note:**  This lab references a solution file located [here](https://github.com/HackerUSA-CE/sdai-ic-d1-html-elements-3/blob/yourself-solution/index.html) (link not shown).
+
+
+On the Job Objectives and Guidance
+Welcome to the comprehensive guide for your final project, "On the Job," which spans the entire course month. This project assesses you on four primary criteria: technical, workflow appropriacy, documentation, and user experience. This document will guide you on grading, weekly submissions, maintaining your codespace, and more. Best of luck, and utilize all available resources to build your first website in just a month. You've got this! 🏁
+
+Checkpoint: Week 1 🗓️
+Overview 📝
+Congratulations on completing your first week! It's now time to apply what you've learned. Below are the acceptance criteria for this week. Please check off each criterion upon completion and submit your codespace URL on Canvas.
+
+Developer Objectives 📑
+Create Basic HTML Structure
+
+Set up a basic HTML file (index.html).
+Incorporate <html>, <head>, and <body> tags.
+Insert a document title using the <title> tag.
+Add Content and Copy
+
+Construct a simple navigation bar using <div> and <a> tags.
+Develop sections for the hero image, about us, menu, and location within <div> containers.
+Insert appropriate headers and paragraphs in each section.
+Ensure all site copy adheres to the provided document.
+Include Images
+
+Embed a logo and other relevant images using <img> tags (e.g., <img src="path/to/image.jpg" alt="Description">).
+Setting Up Your Codespace 🔧
+Fork this repository.
+Create a CodeSpace and use the CodeSpace Setup document if you need to.
+Refer to the Copy Document for all headers and content.
+To Do List ✅
+ Generate the index.html file using the provided shortcut.
+ Regularly add and commit changes to ensure your codespace remains active.
+ Update the webpage title.
+ Insert a page heading from the Copy Document.
+ Create and populate a navbar with links to: about us, dev favorites, location, and hours.
+ Establish <div> containers for: hero image, about us, dev favorites, location, and hours.
+ Choose and embed images from the assets folder for the hero and logo sections.
+ Insert headers for each section using the Copy Document.
+ Populate sections with paragraphs from the Copy Document.
+ For the hours section, use an unordered list with days and times in separate <span> tags.
+ Push all changes to your codespace.
+ Submit the codebase URL in Canvas.
